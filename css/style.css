@@ -1,0 +1,182 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.container
+{
+    height: auto;
+    width: 100%;
+}
+.header
+{
+    height: 60px;
+    background-color:#08086b;
+    color: white;
+}
+.header h1 
+{
+    font-size: 25px;
+    float: left;
+    margin-left: 110px;
+    line-height: 60px;
+    padding-right:25px ;
+}
+.header p
+{
+    font-size: 20px;
+    float: left;
+    line-height: 67px;
+}
+.header ul
+{
+    float: right;
+    margin-right: 50px;
+    margin-top: 22px;
+    
+}
+.header li{
+    display: inline;
+    text-decoration: none;
+}
+.bgblock
+{
+    height: 500px;
+    width: 100%;
+    background-image: url(../img/1.jpg);
+    background-repeat: no-repeat; 
+}
+
+.bgblock p{
+
+    float: left;
+    color: white;
+    margin-left: -280px;
+    font-size: 34px;
+    margin-top: 105px;
+}
+.form
+{
+    height: 380px;
+    width: 364px;
+    color: white;
+    background-color: #08086b;
+    float: right;
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 70px;
+    margin-right: 219px;
+
+}
+.form h2
+{
+    margin-top: 10px;
+}
+.first
+{
+    margin-top: 5px;
+    height: 27px;
+    width: 150px;
+}
+.compny
+{
+    margin-top: 5px;
+    height: 27px;
+    width: 309px;
+}
+.msg
+{
+    margin-top: 5px;
+    height: 150px;
+    width: 309px;
+}
+.submit
+{
+    margin-top: 5px;
+    width: 309px;
+    height: 40px;
+
+}
+.middle
+{
+
+    height: 400px;
+    width: 100%;
+
+}
+
+.middle ul  li
+{
+    height: 400px;
+    width: 240px;
+    margin-top: 20px;
+    padding-left: 150px;
+    display: inline-block;
+    
+}
+.center
+{
+    height: 227px;
+    width: 100%;
+    background-color:#08086b;;
+    color: white;
+    text-align: center;
+}
+.center h1
+{
+    padding-top: 40px;
+
+}
+.footer
+{
+    height:500px;
+    width: 100%;
+}
+.fimages
+{
+    float: left;
+    padding-left: 279px;
+    
+}
+.fimages h1
+{
+
+    padding-left: 338px;
+    margin-top: 20px;
+}
+.fimages p
+{
+    width: 290px;
+    margin-left: 338px;
+
+}
+
+.fimg2
+{
+    float: right;
+    padding-right: 380px;
+    margin-top: 3px;
+}
+.fimg2 h1
+{
+    padding-left: 55px;
+    margin-top: 20px;
+}
+.fimg2 p
+{
+    width: 290px;
+    padding-right: 324px;
+    margin-left: 50px;
+
+}
+.ftr
+{
+    height: 40px;
+    width: 100%;
+    clear: both;
+    line-height: 40px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #08086b;
+    color: white;
+}
