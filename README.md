@@ -1,2 +1,2 @@
 # landingpage1
-landingpage1 designng
+https://awasthip9003.github.io/landingpage1/
